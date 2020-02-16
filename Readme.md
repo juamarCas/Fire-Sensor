@@ -17,6 +17,7 @@ It uses NodeMCU with the ESP8266,
 
 ### Code 
 the code is _BaseNode2.ino_
+also use octal form for channels
 
 ## Libraries
 -We used the nrf24L01 library to communicate each node, you can find the library here [GitHub Pages](https://github.com/nRF24/RF24)
