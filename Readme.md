@@ -1,5 +1,6 @@
 # Fire sensor network
-This project conssists on a prototype of a Wireless Sensor Network(WSN) for fire detection
+This project conssists on a prototype of a Wireless Sensor Network(WSN) for fire detection.
+The design is made in Ki-Cad
 ## Sensor node
 It uses the Atmega328 (Arduino one).
 connector J1 you can connect a battery to measure the energy left.
